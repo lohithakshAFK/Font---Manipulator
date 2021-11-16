@@ -1,0 +1,35 @@
+.heading{
+    margin:0;
+    width:80%;
+    font-size:30 !important;
+    padding:20px;
+    border-radius:75px;
+    background-color: black;
+    color:white;
+    margin-top: 50px;
+}
+
+.heading:hover{
+    background-color: red;
+    color:yellow;
+}
+
+.heading span{
+    font-size:15px;
+}
+
+canvas{
+    border:2px dashed black;
+    margin-top:150px;
+    border-radius: 75px;
+    background-color: black;
+}
+
+.footer{
+    width:50%;
+    line-height: 2;
+    
+    border-radius:75px;
+    margin-top:10px;
+    font-size:18px;
+}
